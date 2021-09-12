@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(3, 68, 90);
+    font-family: 'BioRhyme', serif;
+  }
+
+.jumbotron {
+    background-image: url("../images/bellybutton.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+    
+}
